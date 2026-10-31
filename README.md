@@ -62,6 +62,9 @@ An agriculture intelligence dashboard that helps users explore mandi prices, und
 
 ## 🤝 Let's Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/vallabh-pandav)
+- 📧 [Email](mailto:vallabh.pandav@outlook.com)
+
 I'm open to relevant opportunities and conversations around software, SaaS applications, technical support, and IT operations.
 
 **Always learning. Always building. Focused on solving useful problems.**
